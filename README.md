@@ -10,7 +10,7 @@
 
 ## POLIMORFISMO
 
-![image](https://github.com/DanyCt/EXERCISES_IN_CLASS/assets/120155895/16d43b75-60a1-4bd0-b47b-7cc5e5282813)
+ ![image](https://github.com/DanyCt/EXERCISES_IN_CLASS/assets/120155895/8810b818-71f4-4b5a-8b70-585d3c6383b2)
 
 
 
